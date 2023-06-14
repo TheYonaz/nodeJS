@@ -1,0 +1,23 @@
+{
+  "name": "init-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node test",
+    "dev": "node . && node test && node ./test/testing",
+    "nodemon": "nodemon ."
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "yon vannucci",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

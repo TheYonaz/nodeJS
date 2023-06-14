@@ -1,0 +1,2 @@
+                                                                                                                                                                    const first = "yon"
+exports.first = first
