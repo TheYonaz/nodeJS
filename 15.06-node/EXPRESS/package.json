@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.1",
     "express": "^4.18.2"
   },
   "devDependencies": {
-    "chalk": "^4.1.1",
     "nodemon": "^2.0.22"
   }
 }
